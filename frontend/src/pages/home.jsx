@@ -4,7 +4,6 @@ import Student from '../assets/Student.png';
 import Job from '../assets/JobVisa.png';
 import team from '../assets/dp.jpg'; 
 import contact from '../assets/Contact.jpg';
-import Contact from "./contact";
 
 function Home() {
   return (
